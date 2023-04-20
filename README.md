@@ -3,7 +3,7 @@
 <div>
   
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviPudim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="150em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviPudim&layout=compact&langs_count=16&theme=radical"/>
+  <img align="150em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviPudim&layout=compact&langs_count=16&theme=radical&include_all_commits=true&count_private=true"/>
     <img align="center" height="220em" src="https://1.bp.blogspot.com/-P2czKkFRxR4/XsWVqthXVXI/AAAAAAABJVY/sEYSKbsGUZcogNCAnoxzmGGTau8Q-OPkACK4BGAsYHg/MATEM%25C3%2581TICA2.gif"/>
 </div>
 

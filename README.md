@@ -20,8 +20,6 @@
    </div>
   
  <img width="100%" height="30px" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"/>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **DaviPudim/DaviPudim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
